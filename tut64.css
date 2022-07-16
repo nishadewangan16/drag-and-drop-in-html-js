@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+.imgbox{
+    background-image: url("logo-blue.png");
+    height: 145px;
+    width: 145px;
+    top: 7px;
+    left: 5px;
+    cursor: pointer;
+}
+.whitebox{
+    height: 155px;
+    width: 155px;
+    margin: 10px;
+    position: relative;
+    background-color: bisque;
+    display: inline-block;
+    border: 3px black solid;
+}
+.hold{
+    border: solid red 4px;
+}
+
+.dashed{
+    background-color: violet;
+    border-style: dashed;
+
+}
+.hide{
+    display: none;
+}
