@@ -37,3 +37,4 @@ for (whitebox of whiteboxs) {
     e.target.append(imgboxs);
   });
 }
+console.log("completed");
